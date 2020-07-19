@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hi there! Testing 123 123
+          Hi there! This is my first deployment from VS code to GitHub to Travis CI and then to AWS. Woohooo!!!
         </p>
         <a
           className="App-link"
